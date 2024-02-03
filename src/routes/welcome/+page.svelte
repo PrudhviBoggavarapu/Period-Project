@@ -15,7 +15,8 @@
 </div>
 <div>
 	<p class="text-lg flex justify-center items-center flex-col pb-8">
-		Here you can track and locate the nearest Period Project Tracker for your convienience
+		This website is supposed to show the fill status as a percentage for each Period Project box all
+		around LSU's campus.
 	</p>
 </div>
 <!-- the actual button-->
@@ -30,6 +31,6 @@
 				}, 0);
 			});
 		}}
-		>I have read everything and i understand what this website is about
+		>I have read everything and i understand what this website's purpose is.
 	</Button>
 </div>
